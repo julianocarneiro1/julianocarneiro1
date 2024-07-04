@@ -1,5 +1,5 @@
 ### Olá!
-Sou desenvolvedor, estudante de Análise e Desenvolvimento de Sistemas e formado em Design Gráfico.
+Sou desenvolvedor na Capgemini, formado em Análise e Desenvolvimento de Sistemas e em Design Gráfico.
 - 🌱 Trabalho utilizando Angular e Spring, entre outras ferramentas no dia a dia
 - ⚡ Em paralelo, desenvolvo alguns projetos pessoais afim de exercitar alguns conceitos
 
